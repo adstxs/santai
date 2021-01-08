@@ -1,8 +1,8 @@
 {
 
  "Account": {
-"Username": "naiepa20",
-     "Password": "Sukses2020@"
+"Username": "XXXXXX",
+     "Password": "XXXXXX"
      },
  "Target Profit": "1000000",
  "Target Win": "500000",
@@ -12,7 +12,7 @@
  "Interval": "0",
  "Config": [{
 
-     "Name Bet Set": "VPS betset",
+     "Name Bet Set": "Pajada Bet Set Berkah",
      "Base Bet": "0.005",
      "Max Bet": "OFF",
      "Chance": "50",
@@ -36,7 +36,7 @@
      "Interval": "0"
      },{
 
-     "Name Bet Set": "1 - Mining Chance  49%",
+     "Name Bet Set": "1 - Mining Chance  49% Pajada Bet Set Berkah",
      "Base Bet": "0.001",
      "Max Bet": "OFF",
      "Chance": "49",
@@ -60,7 +60,7 @@
      "Interval": "0"
      },{
 
-     "Name Bet Set": "2 - Mining Chance 11-25%",
+     "Name Bet Set": "2 - Mining Chance 11-25% Pajada Bet Set Berkah",
      "Base Bet": "0.0001",
      "Max Bet": "OFF",
      "Chance": "25",
