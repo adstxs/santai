@@ -1,0 +1,95 @@
+{
+
+ "Account": {
+"Username": "naiepa20",
+     "Password": "Sukses2020@"
+     },
+ "Target Profit": "1000000",
+ "Target Win": "500000",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "0",
+ "Config": [{
+
+     "Name Bet Set": "VPS betset",
+     "Base Bet": "0.005",
+     "Max Bet": "OFF",
+     "Chance": "50",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "50",
+          "Max": "60"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1.1",
+     "If Lose": "1.55",
+     "Reset If Win": "2",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+
+     "Name Bet Set": "1 - Mining Chance  49%",
+     "Base Bet": "0.001",
+     "Max Bet": "OFF",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "49",
+          "Max": "49.25"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1.2",
+     "If Lose": "1.4",
+     "Reset If Win": "2",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+
+     "Name Bet Set": "2 - Mining Chance 11-25%",
+     "Base Bet": "0.0001",
+     "Max Bet": "OFF",
+     "Chance": "25",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "11",
+          "Max": "25"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.3",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "ON",
+       "If Balance": "10000000",
+       "Wallet Address": "DGzJBLE4LKLPGyPpJ3WWAKNmhCQyMj81T2",
+       "Amount": "101"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
